@@ -16,7 +16,7 @@ git clone --depth 1 git@github.com:virtoolswebplayer/typescript-book-chinese.git
 
 **贡献方式二**
 
-将项目fork到自己的帐号里，译者在自己fork的项目上完成翻译工作后，通过 `pull request` 的方式请求合并。具体请参考 (github的多人协作)[https://gist.github.com/suziewong/4378619]
+将项目fork到自己的帐号里，译者在自己fork的项目上完成翻译工作后，通过 `pull request` 的方式请求合并。具体请参考 [github的多人协作](https://gist.github.com/suziewong/4378619)
 
 
 **避免翻译冲突**
