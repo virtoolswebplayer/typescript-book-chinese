@@ -36,13 +36,12 @@ git clone --depth 1 git@github.com:virtoolswebplayer/typescript-book-chinese.git
 
 ```
 # Why TypeScript
-There are two main goals of TypeScript:
-* Provide an *optional type system* for JavaScript.
-* Provide planned features from future JavaScript editions to current JavaScript engines
-
 # 为什么选择 TypeScript
+There are two main goals of TypeScript:
 使用Typescript主要有两个目的：
+* Provide an *optional type system* for JavaScript.
 * TS 为`Javascript`提供了`可选类型系统`
+* Provide planned features from future JavaScript editions to current JavaScript engines
 * TS 可以让你使用`Javascript未来版本`计划支持的特性，并且运行在当前版本的JavaScript引擎上。
 
 ```
