@@ -1,5 +1,11 @@
 《typescript deep drive》是一本 typescript 实战书，本书讲解了 typescript 的一些核心知识和常见问题，目前还没有中文版本。so 突发奇想，由社区驱动社区共建项目的方式，把这本书译成中文，以方便阅读推广。请大家跟贴报名，自领章节。
 
+> 注： 发现网上已有[《深入挖掘 TypeScript》](https://rexdainiel.gitbooks.io/typescript/content/)，不过还是一年前的版本，已经严重滞后于最新的英文版。让我们以社区的力量接过前人的大棒，继续其未尽的事业吧。
+
+特别感谢《typescript deep drive》中文版 原著译者 @ZenDay
+的辛苦付出
+https://github.com/ZenDay/TypeScipt-Deep-Dive-chinese-version
+
 ## 如何参与翻译
 
 首先你要有一个 github 帐号 如果没有请先 [注册 GitHub 帐号](https://github.com/join?source=header-home)
@@ -30,7 +36,7 @@ git clone --depth 1 git@github.com:virtoolswebplayer/typescript-book-chinese.git
 
 **中英文对照翻译**
 
-为了更好的较对，请译者一定要保留英文原文，以中英文对照的方式翻译。等所有章节翻译完成了，经过校验没问题之后再统一将英文部分删除。
+为了更好的较对，请译者必须保留英文原文，以中英文对照的方式翻译。等所有章节翻译完成后，经过校对没问题之后再统一将英文部分删除。
 
 例如：
 
