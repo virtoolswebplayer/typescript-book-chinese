@@ -12,17 +12,20 @@
 git clone --depth 1 git@github.com:virtoolswebplayer/typescript-book-chinese.git
 ```
 
-翻译-->保存-->提交
+翻译-->保存-->提交-->推送
+
+**贡献方式二**
+
+将项目fork到自己的帐号里，译者在自己fork的项目上完成翻译工作后，通过 `pull request` 的方式请求合并。具体请参考 (github的多人协作)[https://gist.github.com/suziewong/4378619]
+
+
+**避免翻译冲突**
 
 > 为了避免翻译冲突，请大家在翻译之前务必先在 `翻译计划` 对应的文章标题上加入自己的名字
 
 章节领取规则为： `文章标题 [译：姓名]` ，姓名可为中文名或 github 帐户名，一定要让我知道你是谁^\_^
 
 例如：[Getting Started](docs/getting-started.md) [译：高乐天]
-
-**贡献方式二**
-
-将项目fork到自己的帐号里，译者在自己fork的项目上完成翻译工作后，通过 `pull request` 的方式请求合并。具体请参考 (github的多人协作)[https://gist.github.com/suziewong/4378619]
 
 
 **中英文对照翻译**
