@@ -4,6 +4,8 @@
 
 首先你要有一个 github 帐号 如果没有请先 [注册 GitHub 帐号](https://github.com/join?source=header-home)
 
+**贡献方式一**
+
 克隆项目到本地
 
 ```sh
@@ -17,6 +19,11 @@ git clone --depth 1 git@github.com:virtoolswebplayer/typescript-book-chinese.git
 章节领取规则为： `文章标题 [译：姓名]` ，姓名可为中文名或 github 帐户名，一定要让我知道你是谁^\_^
 
 例如：[Getting Started](docs/getting-started.md) [译：高乐天]
+
+**贡献方式二**
+
+将项目fork到自己的帐号里，译者在自己fork的项目上完成翻译工作后，通过 `pull request` 的方式请求合并。具体请参考 (github的多人协作)[https://gist.github.com/suziewong/4378619]
+
 
 **中英文对照翻译**
 
