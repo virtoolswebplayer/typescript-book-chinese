@@ -12,11 +12,30 @@ git clone --depth 1 git@github.com:virtoolswebplayer/typescript-book-chinese.git
 
 翻译-->保存-->提交
 
-> 为了避免翻译冲突，请大家在翻译大前  务必先在更新 `翻译计划` 中对应的文章标题上加入自己的名字
+> 为了避免翻译冲突，请大家在翻译之前务必先在 `翻译计划` 对应的文章标题上加入自己的名字
 
 章节领取规则为： `文章标题 [译：姓名]` ，姓名可为中文名或 github 帐户名，一定要让我知道你是谁^\_^
 
 例如：[Getting Started](docs/getting-started.md) [译：高乐天]
+
+**中英文对照翻译**
+
+为了更好的较对，请译者一定要保留英文原文，以中英文对照的方式翻译。等所有章节翻译完成了，经过校验没问题之后再统一将英文部分删除。
+
+例如：
+
+```
+# Why TypeScript
+There are two main goals of TypeScript:
+* Provide an *optional type system* for JavaScript.
+* Provide planned features from future JavaScript editions to current JavaScript engines
+
+# 为什么选择 TypeScript
+使用Typescript主要有两个目的：
+* TS 为`Javascript`提供了`可选类型系统`
+* TS 可以让你使用`Javascript未来版本`计划支持的特性，并且运行在当前版本的JavaScript引擎上。
+
+```
 
 ## 翻译计划
 
