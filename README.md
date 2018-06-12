@@ -63,21 +63,21 @@ There are two main goals of TypeScript:
   - [this](docs/javascript/this.md) [译：高乐天]
   - [Closure](docs/javascript/closure.md) [译：高乐天]
   - [Number](docs/javascript/number.md) [译：高乐天]
-- [Future JavaScript Now](docs/future-javascript.md)
-  - [Classes](docs/classes.md)
-    - [Classes Emit](docs/classes-emit.md)
-  - [Arrow Functions](docs/arrow-functions.md)
-  - [Rest Parameters](docs/rest-parameters.md)
-  - [let](docs/let.md)
-  - [const](docs/const.md)
-  - [Destructuring](docs/destructuring.md)
-  - [Spread Operator](docs/spread-operator.md)
-  - [for...of](docs/for...of.md)
-  - [Iterators](docs/iterators.md)
-  - [Template Strings](docs/template-strings.md)
-  - [Promise](docs/promise.md)
-  - [Generators](docs/generators.md)
-  - [Async Await](docs/async-await.md)
+- [Future JavaScript Now](docs/future-javascript.md) [译：Kntt]
+  - [Classes](docs/classes.md) [译：Kntt]
+    - [Classes Emit](docs/classes-emit.md) [译：Kntt]
+  - [Arrow Functions](docs/arrow-functions.md) [译：Kntt]
+  - [Rest Parameters](docs/rest-parameters.md) [译：Kntt]
+  - [let](docs/let.md) [译：Kntt]
+  - [const](docs/const.md) [译：Kntt]
+  - [Destructuring](docs/destructuring.md) [译：Kntt]
+  - [Spread Operator](docs/spread-operator.md) [译：Kntt]
+  - [for...of](docs/for...of.md) [译：Kntt]
+  - [Iterators](docs/iterators.md) [译：Kntt]
+  - [Template Strings](docs/template-strings.md) [译：Kntt]
+  - [Promise](docs/promise.md) [译：Kntt]
+  - [Generators](docs/generators.md) [译：Kntt]
+  - [Async Await](docs/async-await.md) [译：Kntt]
 - [Project](docs/project/project.md)
   - [Compilation Context](docs/project/compilation-context.md)
     - [tsconfig.json](docs/project/tsconfig.md)
