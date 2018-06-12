@@ -115,12 +115,12 @@ There are two main goals of TypeScript:
   - [Moving Types](docs/types/moving-types.md)
   - [Exception Handling](docs/types/exceptions.md)
   - [Mixins](docs/types/mixins.md)
-- [JSX](docs/jsx/tsx.md)
-  - [React](docs/jsx/react.md)
-  - [Non React JSX](docs/jsx/others.md)
-- [Options](docs/options/intro.md)
-  - [noImplicitAny](docs/options/noImplicitAny.md)
-  - [strictNullChecks](docs/options/strictNullChecks.md)
+- [JSX](docs/jsx/tsx.md) [译：郑少农]
+  - [React](docs/jsx/react.md) [译：郑少农]
+  - [Non React JSX](docs/jsx/others.md) [译：郑少农]
+- [Options](docs/options/intro.md) [译：郑少农]
+  - [noImplicitAny](docs/options/noImplicitAny.md) [译：郑少农]
+  - [strictNullChecks](docs/options/strictNullChecks.md) [译：郑少农]
 - [Testing](docs/testing/intro.md)
   - [Jest](docs/testing/jest.md)
 - [Tools](docs/tools/intro.md)
