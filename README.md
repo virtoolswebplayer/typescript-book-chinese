@@ -88,16 +88,16 @@ There are two main goals of TypeScript:
     - [globals.d.ts](docs/project/globals.md)
   - [Namespaces](docs/project/namespaces.md)
   - [Dynamic Import Expressions](docs/project/dynamic-import-expressions.md)
-- [Node.js QuickStart](docs/quick/nodejs.md)
-- [Browser QuickStart](docs/quick/browser.md)
-- [TypeScript's Type System](docs/types/type-system.md)
-  - [JS Migration Guide](docs/types/migrating.md)
-  - [@types](docs/types/@types.md)
-  - [Ambient Declarations](docs/types/ambient/intro.md)
-    - [Declaration Files](docs/types/ambient/d.ts.md)
-    - [Variables](docs/types/ambient/variables.md)
-  - [Interfaces](docs/types/interfaces.md)
-  - [Enums](docs/enums.md)
+- [Node.js QuickStart](docs/quick/nodejs.md) [译：李润泽]
+- [Browser QuickStart](docs/quick/browser.md) [译：李润泽]
+- [TypeScript's Type System](docs/types/type-system.md) [译：李润泽]
+  - [JS Migration Guide](docs/types/migrating.md) [译：李润泽]
+  - [@types](docs/types/@types.md) [译：李润泽]
+  - [Ambient Declarations](docs/types/ambient/intro.md) [译：李润泽]
+    - [Declaration Files](docs/types/ambient/d.ts.md) [译：李润泽]
+    - [Variables](docs/types/ambient/variables.md) [译：李润泽]
+  - [Interfaces](docs/types/interfaces.md) [译：李润泽]
+  - [Enums](docs/enums.md) [译：李润泽]
   - [`lib.d.ts`](docs/types/lib.d.ts.md)
   - [Functions](docs/types/functions.md)
   - [Callable](docs/types/callable.md)
