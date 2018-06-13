@@ -78,16 +78,16 @@ There are two main goals of TypeScript:
   - [Promise](docs/promise.md) [译：Kntt]
   - [Generators](docs/generators.md) [译：Kntt]
   - [Async Await](docs/async-await.md) [译：Kntt]
-- [Project](docs/project/project.md)
-  - [Compilation Context](docs/project/compilation-context.md)
-    - [tsconfig.json](docs/project/tsconfig.md)
-    - [Which Files?](docs/project/files.md)
-  - [Declaration Spaces](docs/project/declarationspaces.md)
-  - [Modules](docs/project/modules.md)
-    - [File Module Details](docs/project/external-modules.md)
-    - [globals.d.ts](docs/project/globals.md)
-  - [Namespaces](docs/project/namespaces.md)
-  - [Dynamic Import Expressions](docs/project/dynamic-import-expressions.md)
+- [Project](docs/project/project.md) [译：ocian]
+  - [Compilation Context](docs/project/compilation-context.md) [译：ocian]
+    - [tsconfig.json](docs/project/tsconfig.md) [译：ocian]
+    - [Which Files?](docs/project/files.md) [译：ocian]
+  - [Declaration Spaces](docs/project/declarationspaces.md) [译：ocian]
+  - [Modules](docs/project/modules.md) [译：ocian]
+    - [File Module Details](docs/project/external-modules.md) [译：ocian]
+    - [globals.d.ts](docs/project/globals.md) [译：ocian]
+  - [Namespaces](docs/project/namespaces.md) [译：ocian]
+  - [Dynamic Import Expressions](docs/project/dynamic-import-expressions.md) [译：ocian]
 - [Node.js QuickStart](docs/quick/nodejs.md) [译：李润泽]
 - [Browser QuickStart](docs/quick/browser.md) [译：李润泽]
 - [TypeScript's Type System](docs/types/type-system.md) [译：李润泽]
