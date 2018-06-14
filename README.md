@@ -153,12 +153,12 @@ There are two main goals of TypeScript:
 - [TypeScript Compiler Internals](docs/compiler/overview.md)[译：杜吉冲]
   - [Program](docs/compiler/program.md)[译：杜吉冲]
   - [AST](docs/compiler/ast.md)[译：杜吉冲]
-    - [TIP: Visit Children](docs/compiler/ast-tip-children.md)
-    - [TIP: SyntaxKind enum](docs/compiler/ast-tip-syntaxkind.md)
-    - [Trivia](docs/compiler/ast-trivia.md)
-  - [Scanner](docs/compiler/scanner.md)
-  - [Parser](docs/compiler/parser.md)
-    - [Parser Functions](docs/compiler/parser-functions.md)
+    - [TIP: Visit Children](docs/compiler/ast-tip-children.md)[译：杜吉冲]
+    - [TIP: SyntaxKind enum](docs/compiler/ast-tip-syntaxkind.md)[译：杜吉冲]
+    - [Trivia](docs/compiler/ast-trivia.md)[译：杜吉冲]
+  - [Scanner](docs/compiler/scanner.md)[译：杜吉冲]
+  - [Parser](docs/compiler/parser.md)[译：杜吉冲]
+    - [Parser Functions](docs/compiler/parser-functions.md)[译：杜吉冲]
   - [Binder](docs/compiler/binder.md)
     - [Binder Functions](docs/compiler/binder-functions.md)
     - [Binder Declarations](docs/compiler/binder-declarations.md)
