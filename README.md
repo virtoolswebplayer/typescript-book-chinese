@@ -127,18 +127,18 @@ There are two main goals of TypeScript:
   - [Prettier](docs/tools/prettier.md)
   - [Husky](docs/tools/husky.md)
   - [Changelog](docs/tools/changelog.md)
-- [TIPs](docs/tips/main.md)
-  - [String Based Enums](docs/tips/stringEnums.md)
-  - [Nominal Typing](docs/tips/nominalTyping.md)
-  - [Stateful Functions](docs/tips/statefulFunctions.md)
-  - [Bind is Bad](docs/tips/bind.md)
-  - [Currying](docs/tips/currying.md)
-  - [Type Instantiation](docs/tips/typeInstantiation.md)
-  - [Lazy Object Literal Initialization](docs/tips/lazyObjectLiteralInitialization.md)
-  - [Classes are Useful](docs/tips/classesAreUseful.md)
-  - [Avoid Export Default](docs/tips/defaultIsBad.md)
-  - [Limit Property Setters](docs/tips/propertySetters.md)
-  - [`outFile` caution](docs/tips/outFile.md)
+- [TIPs](docs/tips/main.md) [译：luxuehui]
+  - [String Based Enums](docs/tips/stringEnums.md) [译：luxuehui]
+  - [Nominal Typing](docs/tips/nominalTyping.md) [译：luxuehui]
+  - [Stateful Functions](docs/tips/statefulFunctions.md) [译：luxuehui]
+  - [Bind is Bad](docs/tips/bind.md) [译：luxuehui]
+  - [Currying](docs/tips/currying.md) [译：luxuehui]
+  - [Type Instantiation](docs/tips/typeInstantiation.md) [译：luxuehui]
+  - [Lazy Object Literal Initialization] [译：luxuehui](docs/tips/lazyObjectLiteralInitialization.md) [译：luxuehui]
+  - [Classes are Useful](docs/tips/classesAreUseful.md) [译：luxuehui]
+  - [Avoid Export Default](docs/tips/defaultIsBad.md) [译：luxuehui]
+  - [Limit Property Setters](docs/tips/propertySetters.md) [译：luxuehui]
+  - [`outFile` caution](docs/tips/outFile.md) [译：luxuehui]
   - [JQuery tips](docs/tips/jquery.md)
   - [static constructors](docs/tips/staticConstructor.md)
   - [singleton pattern](docs/tips/singleton.md)
