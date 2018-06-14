@@ -78,16 +78,16 @@ There are two main goals of TypeScript:
   - [Promise](docs/promise.md) [译：Kntt]
   - [Generators](docs/generators.md) [译：Kntt]
   - [Async Await](docs/async-await.md) [译：Kntt]
-- [Project](docs/project/project.md)
-  - [Compilation Context](docs/project/compilation-context.md)
-    - [tsconfig.json](docs/project/tsconfig.md)
-    - [Which Files?](docs/project/files.md)
-  - [Declaration Spaces](docs/project/declarationspaces.md)
-  - [Modules](docs/project/modules.md)
-    - [File Module Details](docs/project/external-modules.md)
-    - [globals.d.ts](docs/project/globals.md)
-  - [Namespaces](docs/project/namespaces.md)
-  - [Dynamic Import Expressions](docs/project/dynamic-import-expressions.md)
+- [Project](docs/project/project.md) [译：ocian]
+  - [Compilation Context](docs/project/compilation-context.md) [译：ocian]
+    - [tsconfig.json](docs/project/tsconfig.md) [译：ocian]
+    - [Which Files?](docs/project/files.md) [译：ocian]
+  - [Declaration Spaces](docs/project/declarationspaces.md) [译：ocian]
+  - [Modules](docs/project/modules.md) [译：ocian]
+    - [File Module Details](docs/project/external-modules.md) [译：ocian]
+    - [globals.d.ts](docs/project/globals.md) [译：ocian]
+  - [Namespaces](docs/project/namespaces.md) [译：ocian]
+  - [Dynamic Import Expressions](docs/project/dynamic-import-expressions.md) [译：ocian]
 - [Node.js QuickStart](docs/quick/nodejs.md) [译：李润泽]
 - [Browser QuickStart](docs/quick/browser.md) [译：李润泽]
 - [TypeScript's Type System](docs/types/type-system.md) [译：李润泽]
@@ -98,14 +98,14 @@ There are two main goals of TypeScript:
     - [Variables](docs/types/ambient/variables.md) [译：李润泽]
   - [Interfaces](docs/types/interfaces.md) [译：李润泽]
   - [Enums](docs/enums.md) [译：李润泽]
-  - [`lib.d.ts`](docs/types/lib.d.ts.md)
-  - [Functions](docs/types/functions.md)
-  - [Callable](docs/types/callable.md)
-  - [Type Assertion](docs/types/type-assertion.md)
-  - [Freshness](docs/types/freshness.md)
-  - [Type Guard](docs/types/typeGuard.md)
-  - [Literal Types](docs/types/literal-types.md)
-  - [Readonly](docs/types/readonly.md)
+  - [`lib.d.ts`](docs/types/lib.d.ts.md) [译: 赵岩]
+  - [Functions](docs/types/functions.md) [译：赵岩]
+  - [Callable](docs/types/callable.md) [译：赵岩]
+  - [Type Assertion](docs/types/type-assertion.md) [译：赵岩]
+  - [Freshness](docs/types/freshness.md) [译：赵岩]
+  - [Type Guard](docs/types/typeGuard.md) [译：赵岩]
+  - [Literal Types](docs/types/literal-types.md) [译：赵岩]
+  - [Readonly](docs/types/readonly.md) [译：赵岩]
   - [Generics](docs/types/generics.md)
   - [Type Inference](docs/types/type-inference.md)
   - [Type Compatibility](docs/types/type-compatibility.md)
@@ -127,18 +127,18 @@ There are two main goals of TypeScript:
   - [Prettier](docs/tools/prettier.md)
   - [Husky](docs/tools/husky.md)
   - [Changelog](docs/tools/changelog.md)
-- [TIPs](docs/tips/main.md)
-  - [String Based Enums](docs/tips/stringEnums.md)
-  - [Nominal Typing](docs/tips/nominalTyping.md)
-  - [Stateful Functions](docs/tips/statefulFunctions.md)
-  - [Bind is Bad](docs/tips/bind.md)
-  - [Currying](docs/tips/currying.md)
-  - [Type Instantiation](docs/tips/typeInstantiation.md)
-  - [Lazy Object Literal Initialization](docs/tips/lazyObjectLiteralInitialization.md)
-  - [Classes are Useful](docs/tips/classesAreUseful.md)
-  - [Avoid Export Default](docs/tips/defaultIsBad.md)
-  - [Limit Property Setters](docs/tips/propertySetters.md)
-  - [`outFile` caution](docs/tips/outFile.md)
+- [TIPs](docs/tips/main.md) [译：luxuehui]
+  - [String Based Enums](docs/tips/stringEnums.md) [译：luxuehui]
+  - [Nominal Typing](docs/tips/nominalTyping.md) [译：luxuehui]
+  - [Stateful Functions](docs/tips/statefulFunctions.md) [译：luxuehui]
+  - [Bind is Bad](docs/tips/bind.md) [译：luxuehui]
+  - [Currying](docs/tips/currying.md) [译：luxuehui]
+  - [Type Instantiation](docs/tips/typeInstantiation.md) [译：luxuehui]
+  - [Lazy Object Literal Initialization] [译：luxuehui](docs/tips/lazyObjectLiteralInitialization.md) [译：luxuehui]
+  - [Classes are Useful](docs/tips/classesAreUseful.md) [译：luxuehui]
+  - [Avoid Export Default](docs/tips/defaultIsBad.md) [译：luxuehui]
+  - [Limit Property Setters](docs/tips/propertySetters.md) [译：luxuehui]
+  - [`outFile` caution](docs/tips/outFile.md) [译：luxuehui]
   - [JQuery tips](docs/tips/jquery.md)
   - [static constructors](docs/tips/staticConstructor.md)
   - [singleton pattern](docs/tips/singleton.md)
@@ -150,15 +150,15 @@ There are two main goals of TypeScript:
   - [Typesafe Event Emitter](docs/tips/typed-event.md)
 - [StyleGuide](docs/styleguide/styleguide.md)
 - [Common Errors](docs/errors/main.md)
-- [TypeScript Compiler Internals](docs/compiler/overview.md)
-  - [Program](docs/compiler/program.md)
-  - [AST](docs/compiler/ast.md)
-    - [TIP: Visit Children](docs/compiler/ast-tip-children.md)
-    - [TIP: SyntaxKind enum](docs/compiler/ast-tip-syntaxkind.md)
-    - [Trivia](docs/compiler/ast-trivia.md)
-  - [Scanner](docs/compiler/scanner.md)
-  - [Parser](docs/compiler/parser.md)
-    - [Parser Functions](docs/compiler/parser-functions.md)
+- [TypeScript Compiler Internals](docs/compiler/overview.md)[译：杜吉冲]
+  - [Program](docs/compiler/program.md)[译：杜吉冲]
+  - [AST](docs/compiler/ast.md)[译：杜吉冲]
+    - [TIP: Visit Children](docs/compiler/ast-tip-children.md)[译：杜吉冲]
+    - [TIP: SyntaxKind enum](docs/compiler/ast-tip-syntaxkind.md)[译：杜吉冲]
+    - [Trivia](docs/compiler/ast-trivia.md)[译：杜吉冲]
+  - [Scanner](docs/compiler/scanner.md)[译：杜吉冲]
+  - [Parser](docs/compiler/parser.md)[译：杜吉冲]
+    - [Parser Functions](docs/compiler/parser-functions.md)[译：杜吉冲]
   - [Binder](docs/compiler/binder.md)
     - [Binder Functions](docs/compiler/binder-functions.md)
     - [Binder Declarations](docs/compiler/binder-declarations.md)

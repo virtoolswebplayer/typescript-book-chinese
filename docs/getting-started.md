@@ -1,31 +1,31 @@
-* [Getting Started with TypeScript](#getting-started-with-typescript)
-* [TypeScript Version](#typescript-version)
+* [开始使用 TypeScript](#getting-started-with-typescript)
+* [TypeScript 版本](#typescript-version)
 
-# Getting Started With TypeScript
+# 开始使用 TypeScript{#getting-started-with-typescript}
 
-TypeScript compiles into JavaScript. JavaScript is what you are actually going to execute (either in the browser or on the server). So you are going to need the following:
+TypeScript 会被编译成 JavaScript。JavaScipt 是你实际要执行的代码（在浏览器或者服务器上）。所以你需要下面的这些东西：
 
-* TypeScript compiler (OSS available [in source](https://github.com/Microsoft/TypeScript/) and on [NPM](https://www.npmjs.com/package/typescript))
-* A TypeScript editor (you can use notepad if you want but I use [alm 🌹](https://alm-tools.github.io/). Also [lots of other IDES support it as well]( https://github.com/Microsoft/TypeScript/wiki/TypeScript-Editor-Support))
-
-
-![alm editor window](https://raw.githubusercontent.com/alm-tools/alm-tools.github.io/master/screens/main.png)
+* TypeScript 编译器（开源可用：[源代码](https://github.com/Microsoft/TypeScript/) 以及 [NPM](https://www.npmjs.com/package/typescript)）
+* 一个 TypeScript 编辑器（你可以根据喜好用 notepad，但是我推荐使用 [alm 🌹](http://alm.tools)。另外[很多其他编辑器也提供支持](https://github.com/Microsoft/TypeScript/wiki/TypeScript-Editor-Support)）
 
 
-## TypeScript Version
+![](https://raw.githubusercontent.com/alm-tools/alm-tools.github.io/master/screens/main.png)
 
-Instead of using the *stable* TypeScript compiler we will be presenting a lot of new stuff in this book that may not be associated with a version number yet. I generally recommend people to use the nightly version because **the compiler test suite only catches more bugs over time**.
 
-You can install it on the command line as
+## TypeScript 版本{#typescript-version}
+
+不使用*固定版本*的 TypeScript 编译器，我们将在这本书里介绍很多新的特性，这些特性可能不会与某个版本号联系到一起。我通常推荐人们使用 nightly 版本，因为**编译器测试套件只会随着时间的推移发现更多的 bugs**。
+
+你可以通过命令行安装：
 
 ```
 npm install -g typescript@next
 ```
 
-And now the command line `tsc` will be the latest and greatest. Various IDEs support it too, e.g.
+然后现在命令  `tsc` 将会是最新而且最棒的。不同的 IDE 也都支持它，例如：
 
-* `alm` always ships with the latest TypeScript version.
-* You can ask vscode to use this version by creating `.vscode/settings.json` with the following contents:
+* `alm` 总是装载着最新的 TypeScript 版本。
+* 你可以通过创建 `.vscode/settings.json` 以及写入以下内容来告诉 vscode 使用这个版本：
 
 ```json
 {
@@ -33,12 +33,14 @@ And now the command line `tsc` will be the latest and greatest. Various IDEs sup
 }
 ```
 
-## Getting the Source Code
-The source for this book is available in the books github repository https://github.com/basarat/typescript-book/tree/master/code most of the code samples can be copied into alm and you can play with them as is. For code samples that need additional setup (e.g. npm modules), we will link you to the code sample before presenting the code. e.g.
+## 获取源代码
+本书的源代码可以在 github 仓库 https://github.com/basarat/typescript-book/tree/master/code 中找到。绝大部分的示例代码可以被复制到 alm 中，然后你就可以愉快地和它们玩耍了。对于那些需要额外设置（例如 npm 模块）的示例代码，我们会在呈现代码之前给予你代码的链接。
 
 `this/will/be/the/link/to/the/code.ts`
 ```ts
 // This will be the code under discussion
 ```
 
-With a dev setup out of the way let's jump into TypeScript syntax.
+随着开发配置完成，让我们进入 TypeScript 语法的部分。
+
+> 原文引用 https://github.com/ZenDay/TypeScipt-Deep-Dive-chinese-version/edit/master/docs/getting-started.md
