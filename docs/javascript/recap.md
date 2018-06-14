@@ -1,43 +1,38 @@
-# Your JavaScript is TypeScript
+# 你的 JavaScript 就是 TypeScript
 
-There were (and will continue to be) a lot of competitors in *Some syntax* to *JavaScript* compilers. TypeScript is different from them in that *Your JavaScript is TypeScript*. Here's a diagram:
+曾经有（也将继续会有）很多竞争对手将*某种语法* 编译成 *JavaScript*。TypeScript 跟它们的区别在于*你的 JavaScript 就是 TypeScript*。这里是一张图：
 
-![JavaScript is TypeScript](https://raw.githubusercontent.com/basarat/typescript-book/master/images/venn.png)
+![](https://raw.githubusercontent.com/basarat/typescript-book/master/images/venn.png)
 
-However it does mean that *you need to learn JavaScript* (the good news is *you **only** need to learn JavaScript*). TypeScript is just standardizing all the ways you provide *good documentation* on JavaScript.
+然而这就意味着*你需要去学习 JavaScript*（好消息是*你**只**需要学习 JavaScript* ）。TypeScript 只是标准化了你在 JavaScript 上提供良好文档的方式。
 
-* Just giving you a new syntax doesn't help fix bugs (looking at you CoffeeScript).
-* Creating a new language abstracts you too far from your runtimes, communities (looking at you Dart).
+* 只是给了你一个新的不会帮助修复 bug 的语法（就是在说你，CoffeeScript）。
+* 创造了一个新的语言把你从你的运行时和社区中抽象得很远（就是在说你，Dart）。
 
-TypeScript is just JavaScript with docs.
+TypeScript 仅仅是有文档的 JavaScript。
 
-## Making JavaScript Better
+## 使 JavaScript 变得更好
 
-TypeScript will try to protect you from portions of JavaScript that never worked (so you don't need to remember this stuff):
+TypeScript 会尝试把你从部分永远行不通的 JavaScript 中解救出来（所以不需要去记忆这些东西）：
 
 ```ts
-[] + []; // JavaScript will give you "" (which makes little sense), TypeScript will error
+[] + []; // JavaScript 会给你 ""（这没有意义），TypeScript 会报错
 
 //
-// other things that are nonsensical in JavaScript
-// - don't give a runtime error (making debugging hard)
-// - but TypeScript will give a compile time error (making debugging unnecessary)
+// 其他在 JavaScript 中没意义的东西 
+// - 不会有运行时错误（让 debug 变得困难）
+// - 但是 TypeScript 会给一个编译时错误（使 debug 不再必要）
 //
 {} + []; // JS : 0, TS Error
-[] + {}; // JS : "[object Object]", TS Error
-{} + {}; // JS : NaN or [object Object][object Object] depending upon browser, TS Error
+[] + {}; // JS : "[object Object]", TS Error  
+{} + {}; // JS : NaN, TS Error
 "hello" - 1; // JS : NaN, TS Error
-
-function add(a,b) {
-  return
-    a + b; // JS : undefined, TS Error 'unreachable code detected'
-}
 ```
 
-Essentially TypeScript is linting JavaScript. Just doing a better job at it than other linters that don't have *type information*.
+实际上 TypeScript 是 JavaScript 的静态分析工具。只是比别的没有*类型信息*的静态分析工具做的更好。
 
-## You still need to learn JavaScript
+## 你仍然需要学习 JavaScript
 
-That said TypeScript is very pragmatic about the fact that *you do write JavaScript* so there are some things about JavaScript that you still need to know in order to not be caught off-guard. Let's discuss them next.
+这就是说 TypeScript 非常忠于*你是在写 JavaScript*的事实，因此为了不会措手不及还有一些关于 JavaScript 的事情你需要去知道。接下来让我们去讨论它。
 
-> Note: TypeScript is a superset of JavaScript. Just with documentation that can actually be used by compilers / IDEs ;)
+原文出处： https://github.com/ZenDay/TypeScipt-Deep-Dive-chinese-version/blob/master/docs/javascript/recap.md
