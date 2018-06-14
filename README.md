@@ -98,14 +98,14 @@ There are two main goals of TypeScript:
     - [Variables](docs/types/ambient/variables.md) [译：李润泽]
   - [Interfaces](docs/types/interfaces.md) [译：李润泽]
   - [Enums](docs/enums.md) [译：李润泽]
-  - [`lib.d.ts`](docs/types/lib.d.ts.md)
-  - [Functions](docs/types/functions.md)
-  - [Callable](docs/types/callable.md)
-  - [Type Assertion](docs/types/type-assertion.md)
-  - [Freshness](docs/types/freshness.md)
-  - [Type Guard](docs/types/typeGuard.md)
-  - [Literal Types](docs/types/literal-types.md)
-  - [Readonly](docs/types/readonly.md)
+  - [`lib.d.ts`](docs/types/lib.d.ts.md) [译: 赵岩]
+  - [Functions](docs/types/functions.md) [译：赵岩]
+  - [Callable](docs/types/callable.md) [译：赵岩]
+  - [Type Assertion](docs/types/type-assertion.md) [译：赵岩]
+  - [Freshness](docs/types/freshness.md) [译：赵岩]
+  - [Type Guard](docs/types/typeGuard.md) [译：赵岩]
+  - [Literal Types](docs/types/literal-types.md) [译：赵岩]
+  - [Readonly](docs/types/readonly.md) [译：赵岩]
   - [Generics](docs/types/generics.md)
   - [Type Inference](docs/types/type-inference.md)
   - [Type Compatibility](docs/types/type-compatibility.md)
