@@ -150,9 +150,9 @@ There are two main goals of TypeScript:
   - [Typesafe Event Emitter](docs/tips/typed-event.md)
 - [StyleGuide](docs/styleguide/styleguide.md)
 - [Common Errors](docs/errors/main.md)
-- [TypeScript Compiler Internals](docs/compiler/overview.md)
-  - [Program](docs/compiler/program.md)
-  - [AST](docs/compiler/ast.md)
+- [TypeScript Compiler Internals](docs/compiler/overview.md)[译：杜吉冲]
+  - [Program](docs/compiler/program.md)[译：杜吉冲]
+  - [AST](docs/compiler/ast.md)[译：杜吉冲]
     - [TIP: Visit Children](docs/compiler/ast-tip-children.md)
     - [TIP: SyntaxKind enum](docs/compiler/ast-tip-syntaxkind.md)
     - [Trivia](docs/compiler/ast-trivia.md)
