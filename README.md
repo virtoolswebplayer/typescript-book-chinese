@@ -139,17 +139,17 @@ There are two main goals of TypeScript:
   - [Avoid Export Default](docs/tips/defaultIsBad.md) [译：luxuehui]
   - [Limit Property Setters](docs/tips/propertySetters.md) [译：luxuehui]
   - [`outFile` caution](docs/tips/outFile.md) [译：luxuehui]
-  - [JQuery tips](docs/tips/jquery.md)
-  - [static constructors](docs/tips/staticConstructor.md)
-  - [singleton pattern](docs/tips/singleton.md)
-  - [Function parameters](docs/tips/functionParameters.md)
-  - [Truthy](docs/tips/truthy.md)
-  - [Build Toggles](docs/tips/build-toggles.md)
-  - [Barrel](docs/tips/barrel.md)
-  - [Create Arrays](docs/tips/create-arrays.md)
-  - [Typesafe Event Emitter](docs/tips/typed-event.md)
-- [StyleGuide](docs/styleguide/styleguide.md)
-- [Common Errors](docs/errors/main.md)
+  - [JQuery tips](docs/tips/jquery.md) [译：陈晨]
+  - [static constructors](docs/tips/staticConstructor.md) [译：陈晨]
+  - [singleton pattern](docs/tips/singleton.md) [译：陈晨]
+  - [Function parameters](docs/tips/functionParameters.md) [译：陈晨]
+  - [Truthy](docs/tips/truthy.md) [译：陈晨]
+  - [Build Toggles](docs/tips/build-toggles.md) [译：陈晨]
+  - [Barrel](docs/tips/barrel.md) [译：陈晨]
+  - [Create Arrays](docs/tips/create-arrays.md) [译：陈晨]
+  - [Typesafe Event Emitter](docs/tips/typed-event.md) [译：陈晨]
+- [StyleGuide](docs/styleguide/styleguide.md) [译：陈晨]
+- [Common Errors](docs/errors/main.md) [译：陈晨]
 - [TypeScript Compiler Internals](docs/compiler/overview.md)[译：杜吉冲]
   - [Program](docs/compiler/program.md)[译：杜吉冲]
   - [AST](docs/compiler/ast.md)[译：杜吉冲]
