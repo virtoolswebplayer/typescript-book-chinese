@@ -41,7 +41,7 @@ Similar to `==` vs. `===`, there is `!=` vs. `!==`
 
 So ProTip: Always use `===` and `!==` except for null checks, which we cover later.
 
-最佳实佳： 除了`== null`检查之外，总是使用`===`和`!==`，我们稍后会介绍。
+最佳实践： 除了`== null`检查之外，总是使用`===`和`!==`，我们稍后会介绍。
 
 ## Structural Equality
 
