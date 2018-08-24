@@ -1,6 +1,10 @@
 ## Build Toggles
 
+## 构建切换
+
 It is common to switch in JavaScript projects based on where they are being run. You can do this quite easily with webpack as its supports *dead code elimination* based on environment variables.
+
+根据JavaScript运行环境对JavaScript项目进行切换是很常见的。
 
 Add different targets in your `package.json` `scripts`:
 

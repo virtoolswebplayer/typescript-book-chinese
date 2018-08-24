@@ -1,6 +1,6 @@
 《typescript deep drive》是一本 typescript 实战书，本书讲解了 typescript 的一些核心知识和常见问题，目前还没有中文版本。so 突发奇想，由社区驱动社区共建项目的方式，把这本书译成中文，以方便阅读推广。请大家跟贴报名，自领章节。
 
-> 注： 发现网上已有[《深入挖掘 TypeScript》](https://rexdainiel.gitbooks.io/typescript/content/)，不过还是一年前的版本，已经严重滞后于最新的英文版。让我们以社区的力量接过前人的大棒，继续其未尽的事业吧。
+> 注： 发现网上已有[《深入挖掘 TypeScript》](https://rexdainiel.gitbooks.io/typescript/content/)，不过还是一年前的版本，已经严重滞后于最新的英文版。让我们以社区的力量接过前人的大棒，继续其未尽的事业吧。
 
 特别感谢《typescript deep drive》中文版 原著译者 @ZenDay
 的辛苦付出
